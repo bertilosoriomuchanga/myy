@@ -1,0 +1,5 @@
+{
+  "name": "MyCESE – Sistema de Gestão de Associação Acadêmica",
+  "description": "Um sistema web completo para a gestão de associações acadêmicas, incluindo gerenciamento de membros, finanças, eventos e relatórios, com painéis específicos para diferentes perfis de usuário.",
+  "requestFramePermissions": []
+}
